@@ -14,6 +14,8 @@ Segue abaixo um link para meu LinkedIn, vamos nos conhecer!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickfc17&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ## Principais Tecnologias
 
 <div style="display: flex">
