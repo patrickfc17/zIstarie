@@ -1,6 +1,6 @@
 # Patrick Ferreira Carvalho
 
-Sou um Desenvolvedor de Software e Entusiasta de Programação e Tecnologia. Moro em Almenara - MG e tenho 19 anos. \
+Sou um Desenvolvedor de Software e Entusiasta de Programação e Tecnologia. \
 Especializado em Desenvolvimento Web e atualmente me aprofundando em Testes de Qualidade. Tenho 2 anos e meio de experiência profissional e trabalho com **PHP** e **TypeScript**. Também estudo no IFNMG - Campus Almenara e estou graduando em **Análise e Desenvolvimento de Sistemas**. Além disso, possuo muito interesse na área de **Ciência da Computação** e **Pesquisas Científicas**. \
 Gosto de estudar **C**, **C++**, **Go**, **Rust** e **Java**, e, além disso, sou bastaste entusiasmado com **Otimização de Sistemas** e **Algoritmos e Estruturas de Dados**. Sempre tento estar à parte de novas tecnologias e novos métodos de resolução de problemas \
 Também tenho experiência e estudo em áreas de **Arquitetura de Software**, **Padrões de Projeto** e **Boas Práticas**. \
